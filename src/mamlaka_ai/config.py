@@ -95,7 +95,7 @@ class Settings:
 
     # Embeddings
     embedding_model: str = field(
-        default_factory=lambda: os.getenv("EMBEDDING_MODEL", "intfloat/multilingual-e5-base")
+        default_factory=lambda: os.getenv("EMBEDDING_MODEL", "intfloat/multilingual-e5-small")
     )
     embedding_device: str = field(default_factory=lambda: os.getenv("EMBEDDING_DEVICE", "cpu"))
     embedding_batch_size: int = field(default_factory=lambda: _env_int("EMBEDDING_BATCH_SIZE", 16))

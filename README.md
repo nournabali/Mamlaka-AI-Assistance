@@ -26,7 +26,7 @@ Approved PDFs
 ## Approach
 
 - Chunking keeps page, document, and section metadata. Long sections split near sentence boundaries with a 900-character limit and 150-character overlap by default.
-- `intfloat/multilingual-e5-base` embeds queries and passages with the required E5 prefixes. This allows Arabic questions to retrieve English PDF text.
+- `intfloat/multilingual-e5-small` embeds queries and passages with the required E5 prefixes. This allows Arabic questions to retrieve English PDF text while keeping deployment memory usage practical.
 - FAISS is the local vector store and index. It stores normalized vectors for cosine search. BM25 adds exact-name and exact-number recall, and reciprocal-rank fusion combines both rankings.
 - Every user turn runs retrieval again. When conversation history exists, the rewrite step distinguishes context-dependent follow-ups from standalone topic changes, preserves requested formats such as bullet lists, selects the requested Arabic or English response language, and can add an English query for cross-language retrieval.
 - The LLM receives only retrieved excerpts as evidence. A similarity gate, prompt rules, conflict detection, and prompt-injection screening prevent unsupported answers.
