@@ -4,7 +4,7 @@ A bilingual Arabic/English RAG chatbot for the Almamlaka TV project. It answers 
 
 ## Live demo
 
-Deployment URL: _Add the deployed application link here before submission._
+Deployment URL: <https://mamlaka-ai-assistance.streamlit.app/>
 
 If the live service is unavailable during review, use the submitted sample Q&A screenshots or
 demo video as a fallback.
