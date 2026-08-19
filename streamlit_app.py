@@ -2,10 +2,13 @@
 
 from __future__ import annotations
 
+import runpy
 import sys
 from pathlib import Path
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parent / "src"))
 
-from mamlaka_ai.ui import streamlit_app  # noqa: E402, F401
+# Streamlit executes this file again for every interaction. ``run_module``
+# re-executes the UI each time instead of returning Python's cached import.
+runpy.run_module("mamlaka_ai.ui.streamlit_app", run_name="__main__")
