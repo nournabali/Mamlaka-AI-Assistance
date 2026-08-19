@@ -1,0 +1,16 @@
+.env
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+*.egg-info
+build
+dist
+.git
+evaluation-results.json
+artifacts/evaluation
+tests
+scripts/run_evaluation.py
+scripts/pre_deploy_check.py
+scripts/deploy.py
+requirements-dev.txt

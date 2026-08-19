@@ -1,0 +1,345 @@
+[
+  {
+    "document_name": "Almamlaka_Project_Overview.pdf",
+    "page_number": 1,
+    "section": "Document Header",
+    "chunk_id": "Almamlaka_Project_Overview::p1::document-header::0::a58565",
+    "text": "Almamlaka TV Digital Expansion Initiative\nProject Overview Document",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Project Overview Document",
+    "section_number": null,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 67,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Project_Overview.pdf",
+    "page_number": 1,
+    "section": "Introduction",
+    "chunk_id": "Almamlaka_Project_Overview::p1::introduction::0::17bffc",
+    "text": "1. Introduction\nAlmamlaka TV is launching a new initiative called the Digital Expansion Initiative (DEI), aimed at\nmodernizing the channel's digital presence across streaming, mobile, and social platforms. This\ndocument outlines the project's scope, goals, and key stakeholders.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Project Overview Document",
+    "section_number": 1,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 278,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Project_Overview.pdf",
+    "page_number": 1,
+    "section": "Project Goals",
+    "chunk_id": "Almamlaka_Project_Overview::p1::project-goals::0::84d029",
+    "text": "2. Project Goals\nThe primary goal of the DEI is to increase digital viewership by 40% within the first year of launch.\nSecondary goals include improving content discoverability, modernizing the mobile application,\nand establishing a unified content management system across all platforms.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Project Overview Document",
+    "section_number": 2,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 288,
+    "revision_score": 0,
+    "value_types": [
+      "percent"
+    ],
+    "values": [
+      "percent:40%"
+    ]
+  },
+  {
+    "document_name": "Almamlaka_Project_Overview.pdf",
+    "page_number": 1,
+    "section": "Key Details",
+    "chunk_id": "Almamlaka_Project_Overview::p1::key-details::0::370a52",
+    "text": "3. Key Details\nProject Lead: Sara Al-Rashid\nTotal Approved Budget: $2,400,000\nPlanned Launch Date: March 15, 2027\nProject Duration: 14 months",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Project Overview Document",
+    "section_number": 3,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 141,
+    "revision_score": 0,
+    "value_types": [
+      "date",
+      "money"
+    ],
+    "values": [
+      "money:USD 2400000",
+      "date:2027-03-15"
+    ]
+  },
+  {
+    "document_name": "Almamlaka_Project_Overview.pdf",
+    "page_number": 2,
+    "section": "Platform Scope",
+    "chunk_id": "Almamlaka_Project_Overview::p2::platform-scope::0::dbb913",
+    "text": "4. Platform Scope\nThe initiative covers three main platforms: the Almamlaka TV mobile application (iOS and\nAndroid), the web streaming portal, and integration with third-party smart TV platforms. Each\nplatform will receive a redesigned user interface aligned with the updated Almamlaka TV brand\nguidelines.\nAs part of the accessibility improvements, the mobile application will support content and subtitles\nin 12 languages, including Arabic, English, French, and Spanish, with plans to expand to\nadditional languages in future phases.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Project Overview Document",
+    "section_number": 4,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 535,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Project_Overview.pdf",
+    "page_number": 2,
+    "section": "Stakeholders",
+    "chunk_id": "Almamlaka_Project_Overview::p2::stakeholders::0::34faf2",
+    "text": "5. Stakeholders\nThe project is sponsored by the Almamlaka TV Digital Strategy Department and overseen by a\nsteering committee consisting of representatives from Engineering, Content, Marketing, and Legal\n& Compliance.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Project Overview Document",
+    "section_number": 5,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 217,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Project_Overview.pdf",
+    "page_number": 2,
+    "section": "Success Metrics",
+    "chunk_id": "Almamlaka_Project_Overview::p2::success-metrics::0::47a5a2",
+    "text": "6. Success Metrics\nSuccess will be measured through monthly active users (MAU), average session duration, app\nstore ratings, and content engagement rates. A quarterly review will be conducted by the steering\ncommittee to track progress against these metrics.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Project Overview Document",
+    "section_number": 6,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 258,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Team_Governance.pdf",
+    "page_number": 1,
+    "section": "Document Header",
+    "chunk_id": "Almamlaka_Team_Governance::p1::document-header::0::8092e7",
+    "text": "Almamlaka TV Digital Expansion Initiative\nTeam & Governance Document",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Team & Governance Document",
+    "section_number": null,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 68,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Team_Governance.pdf",
+    "page_number": 1,
+    "section": "Project Team",
+    "chunk_id": "Almamlaka_Team_Governance::p1::project-team::0::db60f3",
+    "text": "1. Project Team\nName\nRole\nDepartment\nSara Al-Rashid\nProject Lead\nDigital Strategy\nOmar Fayez\nLead Engineer\nEngineering\nLina Haddad\nUX Design Lead\nDesign\nKhalid Nasser\nMarketing Lead\nMarketing\nRana Sabbagh\nCompliance Officer\nLegal & Compliance",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Team & Governance Document",
+    "section_number": 1,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 242,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Team_Governance.pdf",
+    "page_number": 1,
+    "section": "Governance Structure",
+    "chunk_id": "Almamlaka_Team_Governance::p1::governance-structure::0::5746d2",
+    "text": "2. Governance Structure\nThe steering committee meets bi-weekly to review project status, budget utilization, and risk items.\nDecisions requiring budget changes above $50,000 must be approved by the Finance Committee\nbefore implementation.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Team & Governance Document",
+    "section_number": 2,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 238,
+    "revision_score": 0,
+    "value_types": [
+      "money"
+    ],
+    "values": [
+      "money:USD 50000"
+    ]
+  },
+  {
+    "document_name": "Almamlaka_Team_Governance.pdf",
+    "page_number": 1,
+    "section": "Revised Launch Date",
+    "chunk_id": "Almamlaka_Team_Governance::p1::revised-launch-date::0::c21e6b",
+    "text": "3. Revised Launch Date\nFollowing the steering committee meeting on January 20, 2027, the public launch date was moved\nto April 1, 2027 to allow additional time for smart TV integration testing, which was identified as a\nhigh-risk item in the project timeline.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Team & Governance Document",
+    "section_number": 3,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 259,
+    "revision_score": 7,
+    "value_types": [
+      "date"
+    ],
+    "values": [
+      "date:2027-01-20",
+      "date:2027-04-01"
+    ]
+  },
+  {
+    "document_name": "Almamlaka_Team_Governance.pdf",
+    "page_number": 2,
+    "section": "Data Privacy Policy",
+    "chunk_id": "Almamlaka_Team_Governance::p2::data-privacy-policy::0::8dc722",
+    "text": "4. Data Privacy Policy\nAll user data collected through the mobile application and streaming portal will be handled in\naccordance with applicable data protection regulations. User data will not be shared with third\nparties without explicit consent, except where required by law.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Team & Governance Document",
+    "section_number": 4,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 277,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Team_Governance.pdf",
+    "page_number": 2,
+    "section": "Content Moderation Policy",
+    "chunk_id": "Almamlaka_Team_Governance::p2::content-moderation-policy::0::43854e",
+    "text": "5. Content Moderation Policy\nUser-generated comments and interactions on the platform are subject to Almamlaka TV's content\nmoderation guidelines. Content that violates community standards will be removed, and repeat\nviolations may result in account suspension.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Team & Governance Document",
+    "section_number": 5,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 261,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Team_Governance.pdf",
+    "page_number": 2,
+    "section": "Escalation Contacts",
+    "chunk_id": "Almamlaka_Team_Governance::p2::escalation-contacts::0::4886bc",
+    "text": "6. Escalation Contacts\nFor technical escalations, contact the Engineering Lead. For budget or scope changes, escalate to\nthe Project Lead, who will bring the item to the steering committee for review.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Team & Governance Document",
+    "section_number": 6,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 200,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Budget_Timeline.pdf",
+    "page_number": 1,
+    "section": "Document Header",
+    "chunk_id": "Almamlaka_Budget_Timeline::p1::document-header::0::c2755c",
+    "text": "Almamlaka TV Digital Expansion Initiative\nBudget & Timeline Breakdown",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Budget & Timeline Breakdown",
+    "section_number": null,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 69,
+    "revision_score": 0,
+    "value_types": [],
+    "values": []
+  },
+  {
+    "document_name": "Almamlaka_Budget_Timeline.pdf",
+    "page_number": 1,
+    "section": "Quarterly Budget Allocation",
+    "chunk_id": "Almamlaka_Budget_Timeline::p1::quarterly-budget-allocation::0::f6d2de",
+    "text": "1. Quarterly Budget Allocation\nThe table below outlines the approved budget allocation per quarter for the Digital Expansion\nInitiative, covering platform development, marketing, and operations.\nQuarter\nDevelopment\nMarketing\nOperations\nTotal\nQ1 2027\n$450,000\n$120,000\n$60,000\n$630,000\nQ2 2027\n$500,000\n$150,000\n$70,000\n$720,000\nQ3 2027\n$400,000\n$100,000\n$60,000\n$560,000\nQ4 2027\n$350,000\n$90,000\n$50,000\n$490,000\nTotal\n$1,700,000\n$460,000\n$240,000\n$2,400,000",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Budget & Timeline Breakdown",
+    "section_number": 1,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 458,
+    "revision_score": 0,
+    "value_types": [
+      "money"
+    ],
+    "values": [
+      "money:USD 450000",
+      "money:USD 120000",
+      "money:USD 60000",
+      "money:USD 630000",
+      "money:USD 500000",
+      "money:USD 150000",
+      "money:USD 70000",
+      "money:USD 720000",
+      "money:USD 400000",
+      "money:USD 100000",
+      "money:USD 560000",
+      "money:USD 350000",
+      "money:USD 90000",
+      "money:USD 50000",
+      "money:USD 490000",
+      "money:USD 1700000",
+      "money:USD 460000",
+      "money:USD 240000",
+      "money:USD 2400000"
+    ]
+  },
+  {
+    "document_name": "Almamlaka_Budget_Timeline.pdf",
+    "page_number": 1,
+    "section": "Budget Notes",
+    "chunk_id": "Almamlaka_Budget_Timeline::p1::budget-notes::0::f206a7",
+    "text": "2. Budget Notes\nNote that the figures above reflect the originally approved budget. Following a revision by the\nFinance Committee in December 2026, the total project budget was adjusted to $2,600,000 to\naccount for additional smart TV integration costs not included in the original scope.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Budget & Timeline Breakdown",
+    "section_number": 2,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 288,
+    "revision_score": 16,
+    "value_types": [
+      "money"
+    ],
+    "values": [
+      "money:USD 2600000"
+    ]
+  },
+  {
+    "document_name": "Almamlaka_Budget_Timeline.pdf",
+    "page_number": 2,
+    "section": "Project Timeline",
+    "chunk_id": "Almamlaka_Budget_Timeline::p2::project-timeline::0::3c1c45",
+    "text": "3. Project Timeline\nMilestone\nTarget Date\nRequirements finalized\nJan 10, 2027\nMobile app design freeze\nFeb 5, 2027\nDevelopment complete\nMar 1, 2027\nQA & testing\nMar 1 - Mar 20, 2027\nPublic launch\nMarch 15, 2027\nPost-launch review\nJun 15, 2027",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Budget & Timeline Breakdown",
+    "section_number": 3,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 242,
+    "revision_score": 0,
+    "value_types": [
+      "date"
+    ],
+    "values": [
+      "date:2027-01-10",
+      "date:2027-02-05",
+      "date:2027-03-01",
+      "date:2027-03-20",
+      "date:2027-03-15",
+      "date:2027-06-15"
+    ]
+  },
+  {
+    "document_name": "Almamlaka_Budget_Timeline.pdf",
+    "page_number": 2,
+    "section": "Risk Notes",
+    "chunk_id": "Almamlaka_Budget_Timeline::p2::risk-notes::0::f286a1",
+    "text": "4. Risk Notes\nThe QA and testing phase has limited buffer time. Any delay in development completion beyond\nMarch 1, 2027 poses a direct risk to the public launch date. The Engineering team has flagged\nsmart TV integration testing as the highest-risk item on the timeline.",
+    "document_title": "Almamlaka TV Digital Expansion Initiative — Budget & Timeline Breakdown",
+    "section_number": 4,
+    "part_index": 0,
+    "part_count": 1,
+    "char_count": 271,
+    "revision_score": 2,
+    "value_types": [
+      "date"
+    ],
+    "values": [
+      "date:2027-03-01"
+    ]
+  }
+]
